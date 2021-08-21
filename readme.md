@@ -1,4 +1,4 @@
-####说明
+#### 说明
 - config.txt是上传到nacos配置中心配置文件(已做过修改)，
 - file.conf,register.conf是seata服务端的配置文件
 
